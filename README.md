@@ -1,0 +1,2 @@
+# VisionTransformer-vs-ResNet-CIFAR100
+ 设计了同ResNet18，ResNet50以及ResNet101，相似参数量的VisionTransformer网络模型，对CIFAR100数据集进行分类。
