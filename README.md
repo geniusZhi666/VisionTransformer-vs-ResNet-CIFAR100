@@ -27,9 +27,10 @@ python test.py -net VisionTransformer2 -weights path.pth
 
 训练得到的模型保存在百度网盘上。
 
-链接：https://pan.baidu.com/s/1gS5R45Wso29ilUXwt9vn3w?pwd=ymqh
+链接:https://pan.baidu.com/s/16ShfsmCYwAEkjSKHdbszzQ?pwd=35e4 
 
-提取码: ymqh
+提取码:35e4
+
                 
                 
 
